@@ -1,2 +1,0 @@
-text: apple
-number: 3.1415
